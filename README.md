@@ -37,4 +37,7 @@ This contribution focuses on frontend UI only for Git/GitHub collaboration pract
 - `src/pages/contact.css`
 
 > Note: This page is UI-only (no backend logic).
+
+### Docker (optional)
+This project can also be run using Docker + Nginx for local development and learning purposes.
 ---
