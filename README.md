@@ -14,3 +14,30 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+---
+
+## 👤 Contact Page – UI Contribution
+
+**Contributor:** Walid Rafiq
+
+### Description
+Designed and styled the Contact page UI as part of a team React project.
+This contribution focuses on frontend UI only for Git/GitHub collaboration practice.
+
+### Features
+- Contact form UI (Name, Email, Message)
+- Send / Clear buttons
+- Success & error feedback
+- Animated header effect
+
+### Files Modified
+- `src/pages/Contact.jsx`
+- `src/pages/contact.css`
+
+> Note: This page is UI-only (no backend logic).
+
+### Docker (optional)
+This project can also be run using Docker + Nginx for local development and learning purposes.
+---
