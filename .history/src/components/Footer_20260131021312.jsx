@@ -7,7 +7,7 @@ function Footer() {
         <p className="footer-brand">Recipe App</p>
 
         <p className="footer-text">
-          © {new Date().getFullYear()} All orders are reserved.
+          © {new Date().getFullYear()} All rights reserved.
         </p>
 
         <div className="footer-links">
